@@ -1,0 +1,14 @@
+/* ここから下に記載していく */
+.logostyle{
+    margin: 5px;
+}
+.intro{
+    margin: 5px 10px 20px 10px; position:absolute;
+    top: 50%;       /* 縦位置を中央に */
+left: 50%;      /* 横位置を中央に */
+transform: translate(-50%, -50%);  /* 完全に中央揃え */
+padding: 10px;
+}
+.logophoto{
+    position: relative;
+}
